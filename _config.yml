@@ -1,0 +1,16 @@
+# Site settings
+title: Electron Adventures
+email: raphaelpor@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jekyll Theme Demo
+baseurl: "/electron-adventures" # the subpath of your site, e.g. /blog/
+url: "http://raphaelpor.github.io" # the base hostname & protocol for your site
+twitter_username: raphaelpor
+github_username: raphaelpor
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
