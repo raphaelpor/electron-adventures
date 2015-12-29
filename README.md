@@ -25,6 +25,7 @@ This repository (based on [Ionic Adventures](https://github.com/juarezpaf/ionic-
 * [Packaging electron apps as asar archive using gulpjs](http://www.xplatform.rocks/2015/05/05/packaging-electron-apps-as-asar-archive-using-gulpjs/) by [@ThorstenHans](http://twitter.com/ThorstenHans)
 * [When electron's window.setTitle keeps driving you crazy](http://www.xplatform.rocks/2015/05/06/when-electrons-window-settitle-keeps-driving-you-crazy/) by [@ThorstenHans](http://twitter.com/ThorstenHans)
 * [Angular2 goes CrossPlatform using electron](http://www.xplatform.rocks/2015/11/16/angluar2-goes-crossplatform-using-electron/) by [@ThorstenHans](http://twitter.com/ThorstenHans)
+* [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/2015/12/15/create-a-desktop-app-with-angular-2-and-electron/) by [@ryanchenkie](http://twitter.com/ryanchenkie)
 
 
 ## Videos
