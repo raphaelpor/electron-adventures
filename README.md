@@ -40,6 +40,7 @@ This repository (based on [Ionic Adventures](https://github.com/juarezpaf/ionic-
 
 * [Cross-Platform Desktop Apps with Electron](http://pt.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron?qid=186f8764-9ec3-4f6a-acfa-31ca7d38c2d1&v=default&b=&from_search=3) by [@reverentgeek](http://twiiter.com/reverentgeek)
 * [Building desktop applications with web technologies - ELECTRON the easy way](http://pt.slideshare.net/stefanjudis/building-desktop-applications-with-web-technologies-electron-the-easy-way) by [@stefanjudis](http://pt.slideshare.net/stefanjudis)
+* [Building Native Experiences with Electron](http://pt.slideshare.net/bengotow/building-native-experiences-with-electron) by [@bengotow](http://pt.slideshare.net/bengotow)
 
 
 ## Starters
