@@ -1,4 +1,4 @@
-# Electron JS Adventures
+# Electron Adventures
 
 This repository (based on [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)), is a guide to learn [Electron](http://electron.atom.io/) and be tuned in to.
 
