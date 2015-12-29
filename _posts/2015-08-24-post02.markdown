@@ -1,7 +1,0 @@
----
-layout: post
-title: "Developing desktop applications with Electron and React"
-author: "@agr0sis"
-link: "https://medium.com/@Agro/developing-desktop-applications-with-electron-and-react-40d117d97564"
-categories: articles
----
