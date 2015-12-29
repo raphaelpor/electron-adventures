@@ -23,6 +23,7 @@ This repository (based on [Ionic Adventures](https://github.com/juarezpaf/ionic-
 * [GitHub Electron Tutorial: Using Electron-Boilerplate](http://www.dontpaniclabs.com/blog/post/2015/08/04/github-electron-tutorial-using-electron-boilerplate/) by [@DontPanicLabs](http://twiiter.com/DontPanicLabs)
 * [Creating Desktop Applications With AngularJS and GitHub Electron](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron) by [@mjasimea](http://twiiter.com/mjasimea)
 * [Packaging electron apps as asar archive using gulpjs](http://www.xplatform.rocks/2015/05/05/packaging-electron-apps-as-asar-archive-using-gulpjs/) by [@ThorstenHans](http://twitter.com/ThorstenHans)
+* [When electron's window.setTitle keeps driving you crazy](http://www.xplatform.rocks/2015/05/06/when-electrons-window-settitle-keeps-driving-you-crazy/) by [@ThorstenHans](http://twitter.com/ThorstenHans)
 
 
 ## Videos
